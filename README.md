@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 ![enkdsn Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enkdsn)
 
 
-[![enkdsn wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enkdsn)](https://github.com/anuraghazra/github-readme-stats)
