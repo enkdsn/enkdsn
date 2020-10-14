@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Neos21 Stats](https://github-readme-stats.vercel.app/api?username=enkdsn&show_icons=true&theme=radical)
+![enkdsn Stats](https://github-readme-stats.vercel.app/api?username=enkdsn&show_icons=true&theme=radical)
+![enkdsn Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enkdsn)
